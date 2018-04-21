@@ -2,6 +2,12 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <Version>0.1.0</Version>
+    <Authors>Brian Whims</Authors>
+    <Company />
+    <PackageProjectUrl>https://github.com/bcwhims/ReflectionCacher</PackageProjectUrl>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Description>This library is designed to improve performance of reflection and type conversion by caching values after they are retrieved for the first time.</Description>
   </PropertyGroup>
 
 </Project>
